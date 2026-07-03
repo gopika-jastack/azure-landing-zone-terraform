@@ -1,0 +1,17 @@
+resource_group_name = "rg-landingzone-demo"
+
+location = "East US"
+
+hub_vnet = "hub-vnet"
+
+web_vnet = "spoke-web-vnet"
+
+app_vnet = "spoke-app-vnet"
+
+web_vm_name = "vm-web"
+
+app_vm_name = "vm-app"
+
+admin_username = "azureuser"
+
+admin_password = "Changeme123!"
